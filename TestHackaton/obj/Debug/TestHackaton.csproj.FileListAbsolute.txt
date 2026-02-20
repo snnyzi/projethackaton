@@ -1,0 +1,12 @@
+C:\Users\mathi\Desktop\Hackaton\TestHackaton\obj\Debug\TestHackaton.csproj.AssemblyReference.cache
+C:\Users\mathi\Desktop\Hackaton\TestHackaton\obj\Debug\TestHackaton.csproj.CoreCompileInputs.cache
+C:\Users\mathi\Desktop\Hackaton\TestHackaton\bin\Debug\TestHackaton.exe.config
+C:\Users\mathi\Desktop\Hackaton\TestHackaton\bin\Debug\TestHackaton.exe
+C:\Users\mathi\Desktop\Hackaton\TestHackaton\bin\Debug\TestHackaton.pdb
+C:\Users\mathi\Desktop\Hackaton\TestHackaton\bin\Debug\Hackaton.exe
+C:\Users\mathi\Desktop\Hackaton\TestHackaton\bin\Debug\Hackaton.pdb
+C:\Users\mathi\Desktop\Hackaton\TestHackaton\bin\Debug\Hackaton.exe.config
+C:\Users\mathi\Desktop\Hackaton\TestHackaton\obj\Debug\TestHack.4DA9A05B.Up2Date
+C:\Users\mathi\Desktop\Hackaton\TestHackaton\obj\Debug\TestHackaton.exe
+C:\Users\mathi\Desktop\Hackaton\TestHackaton\obj\Debug\TestHackaton.pdb
+C:\Users\mathi\Desktop\Hackaton\TestHackaton\obj\Debug\TestHackaton.exe.config

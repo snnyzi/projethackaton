@@ -1,0 +1,10 @@
+C:\Users\mathi\Desktop\Hackaton\Hackaton\obj\Debug\Hackaton.csproj.AssemblyReference.cache
+C:\Users\mathi\Desktop\Hackaton\Hackaton\obj\Debug\Hackaton.Properties.Resources.resources
+C:\Users\mathi\Desktop\Hackaton\Hackaton\obj\Debug\Hackaton.csproj.GenerateResource.cache
+C:\Users\mathi\Desktop\Hackaton\Hackaton\obj\Debug\Hackaton.csproj.CoreCompileInputs.cache
+C:\Users\mathi\Desktop\Hackaton\Hackaton\bin\Debug\Hackaton.exe.config
+C:\Users\mathi\Desktop\Hackaton\Hackaton\bin\Debug\Hackaton.exe
+C:\Users\mathi\Desktop\Hackaton\Hackaton\bin\Debug\Hackaton.pdb
+C:\Users\mathi\Desktop\Hackaton\Hackaton\obj\Debug\Hackaton.exe
+C:\Users\mathi\Desktop\Hackaton\Hackaton\obj\Debug\Hackaton.pdb
+C:\Users\mathi\Desktop\Hackaton\Hackaton\obj\Debug\Hackaton.exe.config
